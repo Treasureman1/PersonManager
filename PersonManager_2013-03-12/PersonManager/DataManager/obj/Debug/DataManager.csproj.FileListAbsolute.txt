@@ -1,0 +1,71 @@
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataManager\bin\Debug\DataManager.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataManager\bin\Debug\DataManager.pdb
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataManager\obj\Debug\DataManager.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\BegASPNET\PersonManager\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\BegASPNET\PersonManager\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\BegASPNET\PersonManager\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\BegASPNET\PersonManager\PersonManager\DataManager\bin\Debug\App_Data\InventoryDatabase.mdf
+C:\BegASPNET\PersonManager\PersonManager\DataManager\bin\Debug\App_Data\InventoryDatabase_log.ldf
+C:\BegASPNET\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\BegASPNET\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\BegASPNET\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\bin\Debug\App_Data\InventoryDatabase.mdf
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\bin\Debug\App_Data\InventoryDatabase_log.ldf
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\BegASPNET\PersonManager_Oct10\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\bin\Debug\App_Data\InventoryDatabase.mdf
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\bin\Debug\App_Data\InventoryDatabase_log.ldf
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\BegASPNET\PersonManager\PersonManager\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\bin\Debug\InventoryDatabase.mdf
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\bin\Debug\InventoryDatabase_log.ldf
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataManager\obj\Debug\DataManager.pdb
+D:\Users\John\My Documents\Visual Studio 2010\Projects\PersonManager\DataManager\bin\Debug\InventoryDatabase.mdf
+D:\Users\John\My Documents\Visual Studio 2010\Projects\PersonManager\DataManager\bin\Debug\InventoryDatabase_log.ldf
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase.mdf
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase_log.ldf
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase.mdf
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase_log.ldf
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase.mdf
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase_log.ldf
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase.mdf
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\InventoryDatabase_log.ldf
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataManager\obj\Debug\DataManager.pdb

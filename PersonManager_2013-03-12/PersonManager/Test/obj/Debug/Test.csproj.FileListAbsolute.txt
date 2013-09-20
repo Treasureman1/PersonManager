@@ -1,0 +1,62 @@
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\obj\Debug\ResolveAssemblyReference.cache
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\bin\Test.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\bin\Test.pdb
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\bin\BusinessObjects.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\bin\BusinessObjects.pdb
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\obj\Debug\Test.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\obj\Debug\Test.pdb
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\bin\DataPortal.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\Test\bin\DataPortal.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\bin\Test.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\bin\Test.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\bin\BusinessObjects.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\bin\DataPortal.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\bin\BusinessObjects.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\bin\DataPortal.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\obj\Debug\Test.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\Test\obj\Debug\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\bin\Test.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\bin\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\bin\Test.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\bin\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\Test.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\InventoryDatabase.mdf
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataManager.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataManager.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\InventoryDatabase_log.ldf
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\InventoryDatabase.mdf
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\InventoryDatabase_log.ldf
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\Test.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\Test.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataManager.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\BusinessObjects.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataManager.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\bin\DataPortal.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Test\obj\Debug\Test.pdb

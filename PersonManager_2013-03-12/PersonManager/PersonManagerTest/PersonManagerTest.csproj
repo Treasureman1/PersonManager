@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7534566F-C371-4FE0-A67D-9D1AD320332B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PersonManagerTest</RootNamespace>
+    <AssemblyName>PersonManagerTest</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Comments.aspx" />
+    <Content Include="DeletePerson.aspx" />
+    <Content Include="EditCategory.aspx" />
+    <Content Include="EditCompany.aspx" />
+    <Content Include="EditCompanyAddresses.aspx" />
+    <Content Include="EditCompanyContacts.aspx" />
+    <Content Include="EditCompanyPhones.aspx" />
+    <Content Include="EditEmail.aspx" />
+    <Content Include="EditManufacturer.aspx" />
+    <Content Include="EditPerson.aspx" />
+    <Content Include="EditPersonAddress.aspx" />
+    <Content Include="EditPersonPhoneNumber.aspx" />
+    <Content Include="EditProduct.aspx" />
+    <Content Include="EditSupplier.aspx" />
+    <Content Include="FetchCompany.aspx" />
+    <Content Include="FetchPerson.aspx" />
+    <Content Include="FetchPersonID.aspx" />
+    <Content Include="FetchPersonName.aspx" />
+    <Content Include="FetchPersons.aspx" />
+    <Content Include="images\noRecord.gif" />
+    <Content Include="InsertPerson.aspx" />
+    <Content Include="ItemUpdated.aspx" />
+    <Content Include="Menu.aspx" />
+    <Content Include="PointOf.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="TestPage.aspx" />
+    <Content Include="TestPage2.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comments.aspx.cs">
+      <DependentUpon>Comments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Comments.aspx.designer.cs">
+      <DependentUpon>Comments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePerson.aspx.cs">
+      <DependentUpon>DeletePerson.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditCategory.aspx.cs">
+      <DependentUpon>EditCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditCategory.aspx.designer.cs">
+      <DependentUpon>EditCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditCompany.aspx.cs">
+      <DependentUpon>EditCompany.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditCompany.aspx.designer.cs">
+      <DependentUpon>EditCompany.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditCompanyAddresses.aspx.cs">
+      <DependentUpon>EditCompanyAddresses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditCompanyAddresses.aspx.designer.cs">
+      <DependentUpon>EditCompanyAddresses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditCompanyContacts.aspx.cs">
+      <DependentUpon>EditCompanyContacts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditCompanyContacts.aspx.designer.cs">
+      <DependentUpon>EditCompanyContacts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditCompanyPhones.aspx.cs">
+      <DependentUpon>EditCompanyPhones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditCompanyPhones.aspx.designer.cs">
+      <DependentUpon>EditCompanyPhones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditEmail.aspx.cs">
+      <DependentUpon>EditEmail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditEmail.aspx.designer.cs">
+      <DependentUpon>EditEmail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditManufacturer.aspx.cs">
+      <DependentUpon>EditManufacturer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditManufacturer.aspx.designer.cs">
+      <DependentUpon>EditManufacturer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditPerson.aspx.cs">
+      <DependentUpon>EditPerson.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditPerson.aspx.designer.cs">
+      <DependentUpon>EditPerson.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditPersonAddress.aspx.cs">
+      <DependentUpon>EditPersonAddress.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditPersonAddress.aspx.designer.cs">
+      <DependentUpon>EditPersonAddress.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditPersonPhoneNumber.aspx.cs">
+      <DependentUpon>EditPersonPhoneNumber.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditPersonPhoneNumber.aspx.designer.cs">
+      <DependentUpon>EditPersonPhoneNumber.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditProduct.aspx.cs">
+      <DependentUpon>EditProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditProduct.aspx.designer.cs">
+      <DependentUpon>EditProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditSupplier.aspx.cs">
+      <DependentUpon>EditSupplier.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditSupplier.aspx.designer.cs">
+      <DependentUpon>EditSupplier.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FetchCompany.aspx.cs">
+      <DependentUpon>FetchCompany.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FetchCompany.aspx.designer.cs">
+      <DependentUpon>FetchCompany.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FetchPerson.aspx.cs">
+      <DependentUpon>FetchPerson.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FetchPerson.aspx.designer.cs">
+      <DependentUpon>FetchPerson.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FetchPersonID.aspx.cs">
+      <DependentUpon>FetchPersonID.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FetchPersonID.aspx.designer.cs">
+      <DependentUpon>FetchPersonID.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FetchPersonName.aspx.cs">
+      <DependentUpon>FetchPersonName.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FetchPersonName.aspx.designer.cs">
+      <DependentUpon>FetchPersonName.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FetchPersons.aspx.cs">
+      <DependentUpon>FetchPersons.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FetchPersons.aspx.designer.cs">
+      <DependentUpon>FetchPersons.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InsertPerson.aspx.cs">
+      <DependentUpon>InsertPerson.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InsertPerson.aspx.designer.cs">
+      <DependentUpon>InsertPerson.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ItemUpdated.aspx.cs">
+      <DependentUpon>ItemUpdated.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ItemUpdated.aspx.designer.cs">
+      <DependentUpon>ItemUpdated.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.aspx.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PointOf.aspx.cs">
+      <DependentUpon>PointOf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PointOf.aspx.designer.cs">
+      <DependentUpon>PointOf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.master.cs">
+      <DependentUpon>Site.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestMasterPage.master.cs">
+      <DependentUpon>TestMasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestPage.aspx.cs">
+      <DependentUpon>TestPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestPage.aspx.designer.cs">
+      <DependentUpon>TestPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestPage2.aspx.cs">
+      <DependentUpon>TestPage2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestPage2.aspx.designer.cs">
+      <DependentUpon>TestPage2.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.master" />
+    <Content Include="TestMasterPage.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataManager\DataManager.csproj">
+      <Project>{E17582C8-FA11-4F17-A184-6D436633699C}</Project>
+      <Name>DataManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPortal\DataPortal.csproj">
+      <Project>{7B72FB3E-0345-4251-A753-79CCCBE22F08}</Project>
+      <Name>DataPortal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53292</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

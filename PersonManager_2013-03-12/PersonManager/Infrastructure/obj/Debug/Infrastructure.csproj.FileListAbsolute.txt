@@ -1,0 +1,4 @@
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Infrastructure\bin\Infrastructure.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Infrastructure\bin\Infrastructure.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\Infrastructure\obj\Debug\Infrastructure.pdb

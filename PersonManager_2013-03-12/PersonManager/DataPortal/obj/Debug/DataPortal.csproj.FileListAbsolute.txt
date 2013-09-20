@@ -1,0 +1,29 @@
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataPortal\bin\Debug\DataPortal.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataPortal\bin\Debug\DataPortal.pdb
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataPortal\obj\Debug\ResolveAssemblyReference.cache
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataPortal\obj\Debug\DataPortal.dll
+d:\users\john\my documents\visual studio 2010\Projects\PersonManager\DataPortal\obj\Debug\DataPortal.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataPortal\bin\Debug\DataPortal.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataPortal\bin\Debug\DataPortal.pdb
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataPortal\obj\Debug\DataPortal.dll
+C:\BegASPNET\PersonManagerOO - Copy\PersonManager\DataPortal\obj\Debug\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager_2013-03-12\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.pdb
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.dll
+C:\Users\Tom\Desktop\Person Manager\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\bin\Debug\DataPortal.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PersonManager\PersonManager_2013-03-12\PersonManager\DataPortal\obj\Debug\DataPortal.pdb
